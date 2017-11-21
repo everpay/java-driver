@@ -4,6 +4,7 @@
 
 ### 4.0.0-alpha3 (in progress)
 
+- [improvement] JAVA-1673: Remove schema agreement check when repreparing on up
 - [improvement] JAVA-1675: Remove dates from copyright headers
 - [improvement] JAVA-1645: Don't log stack traces at WARN level
 - [new feature] JAVA-1524: Add query trace API
