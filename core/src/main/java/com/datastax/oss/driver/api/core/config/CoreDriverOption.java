@@ -86,6 +86,7 @@ public enum CoreDriverOption implements DriverOption {
   AUTH_PROVIDER_ROOT("protocol.auth-provider", false),
   RELATIVE_PLAIN_TEXT_AUTH_USERNAME("username", false),
   RELATIVE_PLAIN_TEXT_AUTH_PASSWORD("password", false),
+  AUTH_PROVIDER_WARN_IF_NO_SERVER_AUTH("protocol.auth-provider.warn-if-no-server-auth", false),
 
   SSL_ENGINE_FACTORY_ROOT("ssl-engine-factory", false),
   RELATIVE_DEFAULT_SSL_CIPHER_SUITES("cipher-suites", false),

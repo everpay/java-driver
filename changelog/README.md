@@ -4,6 +4,7 @@
 
 ### 4.0.0-alpha3 (in progress)
 
+- [improvement] JAVA-1678: Warn if auth is configured on the client but not the server
 - [improvement] JAVA-1680: Improve error message on batch log write timeout
 - [improvement] JAVA-1675: Remove dates from copyright headers
 - [improvement] JAVA-1645: Don't log stack traces at WARN level
